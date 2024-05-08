@@ -1,4 +1,4 @@
-Extracción de datos de Mercado Libre mediante su API y procesamiento mediante Spark
+***Extracción de datos de Mercado Libre mediante su API y procesamiento mediante Spark
 
 El siguiente Notebook refleja las siguientes actividades:
 
