@@ -7,3 +7,6 @@ Actividades:
 + Transformación de datos semiestructurados (Json) a estructurados (Data Frame de Spark).
 + Proceso de Data Cleansing y Data Enrichment sobre el Data Frame de Spark.
 + Big Data mediante Spark.
+
+
+  Se extrae en ls datos de mercado libre dese su api hdsd
