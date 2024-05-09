@@ -8,5 +8,3 @@ Actividades:
 + Proceso de Data Cleansing y Data Enrichment sobre el Data Frame de Spark.
 + Big Data mediante Spark.
 
-
-  Se extrae en ls datos de mercado libre dese su api hdsd
