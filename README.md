@@ -4,7 +4,7 @@ Este proyecto implementa un proceso de **ETL (Extract, Transform, Load)** sobre 
 
 ## 📝 Descripción
 Se extrajeron datos semiestructurados en formato **JSON** desde la API de Mercado Libre mediante **Postman y Python**, para luego transformarlos en datos estructurados con Spark.  
-El pipeline incluyó procesos de limpieza y enriquecimiento de datos, habilitando un análisis escalable sobre grandes volúmenes de información.
+El pipeline incluyó procesos de limpieza y enriquecimiento de datos, y análisis escalable sobre grandes volúmenes de información.
 
 ## ⚙️ Tareas realizadas
 - Orquestación de un proceso **ETL** completo.  
@@ -20,7 +20,7 @@ El pipeline incluyó procesos de limpieza y enriquecimiento de datos, habilitand
 - API de Mercado Libre  
 
 ## 📌 Resultados
-Se logró construir un pipeline escalable para la extracción y transformación de datos de Mercado Libre, listo para integrarse en procesos de **Big Data** y **análisis avanzado**.
+Se logró construir un pipeline escalable para la extracción, transformación de datos de Mercado Libre y procesamiento aplicando **Big Data** y **análisis avanzado**.
 
 ---
 🔗 [LinkedIn](https://www.linkedin.com/in/ivàn-tolaba-b161927b) | [Portfolio Web](https://ivantolaba.github.io/Portfolio-IA) | Email: ivn.tlb@gmail.com
